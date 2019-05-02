@@ -1,0 +1,7 @@
+td, th{
+    border: solid 1px black;
+    padding: 2px;
+}
+th {
+    font-weight: bold;
+}
